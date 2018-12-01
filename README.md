@@ -1,13 +1,14 @@
 # Desafio 01 - GoReact
 
-Conforme proposto no desafio, devemos configure uma estrutura ReactJS do zero com Babel, Webpack e Webpack Dev Server. Além disso, devemos utilize as ferramentas ESLint, EditorConfig e Prettier durante o desenvolvimento desse projeto.
+Conforme proposto no desafio, devemos configurar uma estrutura ReactJS do zero com Babel, Webpack e Webpack Dev Server. Além disso, devemos utilize as ferramentas ESLint, EditorConfig e Prettier durante o desenvolvimento desse projeto.
 
 ![Feed](/public/assets/desafio.png)
 
-##Objetivo
+# Objetivo
+
 Desenvolver um feed de posts estilo Facebook. Criando um layout tentando chegar o mais próximo possível da imagem acima:
 
-### Regras
+# Regras
 
 -   O Header deve ser um componente separado;
 -   O Post deve ser um componente separado;
