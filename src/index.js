@@ -53,6 +53,8 @@ class App extends Component {
     return posts.map(post => <Post post={post} key={post.title} />);
   }
 
+  // listPosts = () => this.state.posts.map(post => <Post post={post} key={post.title} />);
+
   render() {
     const { titleHeader } = this.state;
     return (
